@@ -1,0 +1,13 @@
+input{
+    font-size: 2em;
+}
+input[type="submit"]{
+    
+}
+input.tb{
+    margin: 0;
+    padding: 3px;
+
+    border: 1px solid black;
+    border-radius: 5px;
+}
